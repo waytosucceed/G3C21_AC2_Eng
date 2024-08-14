@@ -1,0 +1,250 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Which of the following words is an adverb?",
+        "options": [
+            "Happy",
+            "Quickly",
+            "Sad",
+            "Angry"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Most adverbs are formed by adding what to an adjective?",
+        "options": [
+            "-ing",
+            "-ed",
+            "-ly",
+            "-er"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Which of the following is an adverb?",
+        "options": [
+            "Slowly",
+            "Loudly",
+            "Carefully",
+            "All of the above"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "She _____ (quick/quickly) ran to the store to buy some milk.",
+        "options": [
+            "quick",
+            "quickly"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "The team played _____ (good/well) and won the championship.",
+        "options": [
+            "good",
+            "well"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "The cat moved _____ (silent/silently) through the grass, stalking its prey.",
+        "options": [
+            "silent",
+            "silently"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "Adverbs only describe verbs.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "The dog barked _____ (loud/loudly) at the passing cars.",
+        "options": [
+            "loud",
+            "loudly"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "All adverbs end in '-ly.'",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "The baby slept _____ (peaceful/peacefully) in her crib.",
+        "options": [
+            "peaceful",
+            "peacefully"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "Adverbs can be placed at the beginning, middle, or end of a sentence.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "The dog barked ______.",
+        "options": [
+            "loudly",
+            "gracefully",
+            "beautifully"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "Adverbs can modify pronouns.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "She finished her homework ______.",
+        "options": [
+            "quickly",
+            "loudly",
+            "sadly"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "Adverbs provide more information about the action or state described in a sentence.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "The sun shone ______.",
+        "options": [
+            "brightly",
+            "happily",
+            "angrily"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "He ran ______ to catch the bus.",
+        "options": [
+            "gently",
+            "fast",
+            "slowly"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "They sang ______ at the concert.",
+        "options": [
+            "beautifully",
+            "quickly",
+            "heavily"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "She whispered ______ in my ear.",
+        "options": [
+            "loudly",
+            "angrily",
+            "softly"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "The cat moved ______ across the room.",
+        "options": [
+            "loudly",
+            "angrily",
+            "silently"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q21.",
+        "question": "Which of the following sentences uses an adverb correctly?",
+        "options": [
+            "She spoke loud during the presentation.",
+            "He ran quick to catch the bus.",
+            "They worked hard to finish the project on time.",
+            "The bird sang beautiful in the morning."
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q22.",
+        "question": "Which of the following sentences uses an adverb correctly?",
+        "options": [
+            "The car moved smooth on the highway.",
+            "She danced graceful across the stage.",
+            "He spoke confidently during the interview.",
+            "They played good in the tournament."
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q23.",
+        "question": "Which of the following sentences uses an adverb correctly?",
+        "options": [
+            "The sun shone bright in the sky.",
+            "The dog barked loud at the stranger.",
+            "The baby cried softly in her crib.",
+            "The flowers smelled sweet in the garden."
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q24.",
+        "question": "Which of the following sentences uses an adverb correctly?",
+        "options": [
+            "She sang the song beautiful.",
+            "He ran quick to catch the train.",
+            "They worked diligent on the project.",
+            "The wind blew gently through the trees."
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q25.",
+        "question": "Which of the following sentences uses an adverb correctly?",
+        "options": [
+            "The cat walked silent across the room.",
+            "She danced gracefully on the stage.",
+            "He drove the car fast on the highway.",
+            "They played the game good."
+        ],
+        "correct": 1
+    }
+]
